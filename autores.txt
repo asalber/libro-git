@@ -1,4 +1,3 @@
 Alfredo Sánchez Alberca (asalber@ceu.es)
-nombre de usuario: usuario1
+nombre de usuario: usuario
 correo: correo@correo.com
-
