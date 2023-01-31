@@ -1,0 +1,79 @@
+[33mcommit f67e457013045a68d7cb4c0cac103326e9cd24cb[m[33m ([m[1;36mHEAD -> [m[1;32mautoria[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Alfredo Sánchez Alberca <asalber@gmail.com>
+Date:   Thu Feb 21 16:10:35 2019 +0100
+
+    Añadidos autores.
+
+[33mcommit cb1e4f6078f116a06ea3591e5bc8dfb4dd92f1b5[m
+Merge: 3287d08 87fa11f
+Author: Alfredo Sánchez Alberca <asalber@gmail.com>
+Date:   Sun Feb 17 00:45:38 2019 +0100
+
+    Solucionado conflicto bibliografía.
+
+[33mcommit 3287d08d2a7594902ac4321c5fb50a54d774722a[m
+Author: Alfredo Sánchez Alberca <asalber@gmail.com>
+Date:   Sun Feb 17 00:44:29 2019 +0100
+
+    Añadida nueva referencia bibliográfica.
+
+[33mcommit 87fa11f072f4b6d9349758a3fe3430de7cf96a9a[m
+Author: Alfredo Sánchez Alberca <asalber@gmail.com>
+Date:   Sun Feb 17 00:43:00 2019 +0100
+
+    Añadida nueva referecia bibliográfica.
+
+[33mcommit ff5cd52cb36d488e640a974b5a5c1d6cbcc5b0f0[m
+Merge: 9b32d70 496a5c7
+Author: Alfredo Sánchez Alberca <asalber@gmail.com>
+Date:   Sat Feb 16 23:34:42 2019 +0100
+
+    Merge branch 'bibliografia'
+
+[33mcommit 496a5c79ddc083de40677f68f7217e9cd1bb504c[m
+Author: Alfredo Sánchez Alberca <asalber@gmail.com>
+Date:   Sat Feb 16 23:09:00 2019 +0100
+
+    Añadida primera referencia bibliográfica.
+
+[33mcommit 9b32d70e0254b56ad24057257dfc3d0779b09187[m
+Author: Alfredo Sánchez Alberca <asalber@gmail.com>
+Date:   Sat Feb 16 23:02:58 2019 +0100
+
+    Añadido capítulo 4.
+
+[33mcommit 48ed886424d57097faecbcdda5d8c97f66406d2b[m
+Author: Alfredo Sánchez Alberca <asalber@gmail.com>
+Date:   Wed Feb 13 22:04:22 2019 +0100
+
+    Añadido capítulo 5 al índice.
+
+[33mcommit 34779bb83d46d2524801ce583a4e58e2bd00e93d[m
+Author: Alfredo Sánchez Alberca <asalber@gmail.com>
+Date:   Wed Feb 13 21:57:40 2019 +0100
+
+    Añadido capítulo 3.
+
+[33mcommit fb7debc0182a8d0ddeeb8d14880f0e08c3dc0a79[m
+Author: Alfredo Sánchez Alberca <asalber@gmail.com>
+Date:   Wed Feb 13 21:12:13 2019 +0100
+
+    Añadido capítulo 2.
+
+[33mcommit 0244283bf1462628effe0d2705508de8b53b3cf7[m
+Author: Alfredo Sánchez Alberca <asalber@gmail.com>
+Date:   Wed Feb 13 18:19:27 2019 +0100
+
+    Añadido capítulo 1.
+
+[33mcommit 8c808102b96843781205b3169444a002878f5b21[m
+Author: Alfredo Sánchez Alberca <asalber@gmail.com>
+Date:   Wed Feb 13 18:05:27 2019 +0100
+
+    Añadido capítulo 3 sobre gestión de ramas al índice.
+
+[33mcommit bd7f788903cf1b1adbde028d474068cebb6ac870[m
+Author: Alfredo Sánchez Alberca <asalber@gmail.com>
+Date:   Wed Feb 13 17:58:58 2019 +0100
+
+    Añadido índice del libro.
