@@ -1,2 +1,3 @@
 Alfredo Sánchez Alberca (asalber@ceu.es)
 
+"NombreFicticio <correo.ficticio@example.com>" 
