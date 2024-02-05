@@ -1,2 +1,1 @@
-Alfredo Sánchez Alberca (asalber@ceu.es)
-
+Nombre del Usuario <correo@ejemplo.com>
